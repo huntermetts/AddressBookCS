@@ -1,0 +1,11 @@
+/Users/HunterMetts/workspace/backendWorkspace/AddressBookTryCatch/obj/Debug/netcoreapp2.2/AddressBookTryCatch.csprojAssemblyReference.cache
+/Users/HunterMetts/workspace/backendWorkspace/AddressBookTryCatch/obj/Debug/netcoreapp2.2/AddressBookTryCatch.csproj.CoreCompileInputs.cache
+/Users/HunterMetts/workspace/backendWorkspace/AddressBookTryCatch/obj/Debug/netcoreapp2.2/AddressBookTryCatch.AssemblyInfoInputs.cache
+/Users/HunterMetts/workspace/backendWorkspace/AddressBookTryCatch/obj/Debug/netcoreapp2.2/AddressBookTryCatch.AssemblyInfo.cs
+/Users/HunterMetts/workspace/backendWorkspace/AddressBookTryCatch/bin/Debug/netcoreapp2.2/AddressBookTryCatch.deps.json
+/Users/HunterMetts/workspace/backendWorkspace/AddressBookTryCatch/bin/Debug/netcoreapp2.2/AddressBookTryCatch.runtimeconfig.json
+/Users/HunterMetts/workspace/backendWorkspace/AddressBookTryCatch/bin/Debug/netcoreapp2.2/AddressBookTryCatch.runtimeconfig.dev.json
+/Users/HunterMetts/workspace/backendWorkspace/AddressBookTryCatch/bin/Debug/netcoreapp2.2/AddressBookTryCatch.dll
+/Users/HunterMetts/workspace/backendWorkspace/AddressBookTryCatch/bin/Debug/netcoreapp2.2/AddressBookTryCatch.pdb
+/Users/HunterMetts/workspace/backendWorkspace/AddressBookTryCatch/obj/Debug/netcoreapp2.2/AddressBookTryCatch.dll
+/Users/HunterMetts/workspace/backendWorkspace/AddressBookTryCatch/obj/Debug/netcoreapp2.2/AddressBookTryCatch.pdb
